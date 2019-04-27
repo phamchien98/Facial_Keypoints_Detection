@@ -7,7 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1NF2vNU9XnDbABG_bPhS9pvfRE-l5WY-8
 """
 
-
+!unzip /content/training.zip -d /content/training
+!unzip /content/test.zip -d /content/test
 
 import pandas as pd
 import numpy as np
